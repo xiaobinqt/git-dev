@@ -12,7 +12,7 @@ class CurlWrapper
     const HTTP_VERSION = 'CURL_HTTP_VERSION_1_1';
     const USER_AGENT = 'jimu_http_curl_1.1';
 
-    protected $_config;
+    protected $_cxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxonfig;
     protected $_cookies;
 
     private $refer = null;
